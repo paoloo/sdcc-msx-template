@@ -1,0 +1,6 @@
+.DS_Store
+Debug/
+Release/
+applicationsettings.s
+targetconfig.h
+targetconfig.s

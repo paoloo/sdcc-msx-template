@@ -1,0 +1,107 @@
+------------------------------------ FUSION-C
+Ven 30 aoû 2019 18:12:15 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Ven 30 aoû 2019 19:49:09 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Lun  2 sep 2019 17:10:01 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Ven 13 sep 2019 19:53:39 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Mar 15 oct 2019 20:13:30 CEST
+------------------------------------
+removing setpalette.rel
+------------------------------------ FUSION-C
+Mar 15 oct 2019 20:14:33 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Mer 16 oct 2019 19:35:03 CEST
+------------------------------------
+removing setpalette.rel
+------------------------------------ FUSION-C
+Mer 16 oct 2019 19:36:29 CEST
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Mer  6 nov 2019 15:27:03 CET
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Mer  6 nov 2019 15:30:45 CET
+------------------------------------
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+------------------------------------ FUSION-C
+Lun  9 nov 2020 09:41:48 CET
+------------------------------------
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+------------------------------------ FUSION-C
+Lun  9 nov 2020 09:49:54 CET
+------------------------------------
+removing vram.rel
+------------------------------------ FUSION-C
+Lun  9 nov 2020 09:51:22 CET
+------------------------------------
+removing vram.rel
+------------------------------------ FUSION-C
+Lun  9 nov 2020 09:52:18 CET
+------------------------------------
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+------------------------------------ FUSION-C
+Mar 10 nov 2020 09:39:27 CET
+------------------------------------
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+covoxplay.c:66: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+printf.c:110: warning 196: pointer target lost const qualifier
+printf.c:111: warning 196: pointer target lost const qualifier
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
+rlewbtovram.c:91: info 218: z80instructionSize() failed to parse line node, assuming 999 bytes
+'di;	'
+
